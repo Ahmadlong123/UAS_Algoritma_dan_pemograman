@@ -148,3 +148,62 @@ int main() {
     return 0;
 }
 
+//OUTPUT
+  ===========================================
+                        |                LOGIN MENU               |
+                        ===========================================
+                        Username: ahmad
+                        Password: ******
+                        Selamat datang di toko kami!
+                        ===========================================
+                        |               RRRRRRRRR                 |
+                        |               R       RR                |
+                        |               R      RR                 |
+                        |               R     RR                  |
+                        |               R    R                    |
+                        |               R       RR                |
+                        |               R         RR              |
+                        -------------------------------------------
+                        ================= RIDWAN ================
+                        -------------------------------------------
+                        |           PROGRAM STRUK TOKO            |
+                        -------------------------------------------
+                         Masukkan nama pembeli: ahmad ridwan
+                         Masukkan banyak barang: 2
+                        -----------------------------------------
+                        | No | Nama Barang     |  Harga         |
+                        -----------------------------------------
+                        |  0 |          Beras | Rp.      12000 |
+                        |  1 |           Gula | Rp.      15000 |
+                        |  2 |  Minyak Goreng | Rp.      20000 |
+                        |  3 |          Telur | Rp.      22000 |
+                        |  4 |           Susu | Rp.      25000 |
+                        -----------------------------------------
+                         Masukkan nomor barang ke-1: 2
+                         Masukkan jumlah barang         : 1
+
+                         Masukkan nomor barang ke-2: 2
+                         Masukkan jumlah barang         : 1
+
+                         Total harga keseluruhan        : Rp. 40000
+                         Masukkan jumlah pembayaran     : Rp. 50000
+                        =========================================
+                         Nama Pembeli: ahmad ridwan
+                         Daftar belanja anda:
+                        -----------------------------------------
+                        | No | Nama Barang     | Jumlah |  Harga   |
+                        -----------------------------------------
+                        |  1 |  Minyak Goreng |      1 | Rp.  20000 |
+                        |  2 |  Minyak Goreng |      1 | Rp.  20000 |
+                        -----------------------------------------
+                                Total harga             : Rp. 40000
+                                Pembayaran              : Rp. 50000
+                                Kembalian               : Rp. 10000
+                        |=================================|
+                        |          Terimakasih            |
+                        |       Telah berbelanja          |
+                        |            Di Toko              |
+                        |           SERBA ADA             |
+                        ===================================
+
+Ulangi (y/t):
